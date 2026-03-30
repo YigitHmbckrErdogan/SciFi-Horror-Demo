@@ -19,7 +19,7 @@ This is a tension-filled survival horror prototype developed with a small team. 
 
 ### 2. Environmental Puzzles & Door Progression
 ![Puzzle Mechanics](puzzle2.png)
-![Puzzle Mechanics](buttonPuzle.png)
+![Puzzle Mechanics](buttonPuzzle.png)
 > **The Mechanic:** Designed interactive systems where players must solve environmental puzzles under pressure to unlock the progression paths.
 
 ### 3. Atmospheric Level Design
