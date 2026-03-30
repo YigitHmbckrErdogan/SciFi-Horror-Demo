@@ -13,7 +13,7 @@ This is a tension-filled survival horror prototype developed with a small team. 
 ## Core Features & Technical Showcase
 
 ### 1. Dynamic Enemy AI (Sensory Detection)
-![Enemy AI](Ekran görüntüsü 2026-03-30 223354.png)
+![Enemy AI](Ekrangörüntüsü2026-03-30223354.png)
 
 > **Under the hood:** Engineered the enemy behavior logic. The AI doesn't just follow a path; it dynamically reacts to the player's sight and sound, creating genuine tension.
 
