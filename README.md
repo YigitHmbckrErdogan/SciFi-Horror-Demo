@@ -13,14 +13,15 @@ This is a tension-filled survival horror prototype developed with a small team. 
 ## Core Features & Technical Showcase
 
 ### 1. Dynamic Enemy AI (Sensory Detection)
-![Enemy AI](hidingAlien.png)
+![Enemy AI](alien.png)
 
 > **Under the hood:** Engineered the enemy behavior logic. The AI doesn't just follow a path; it dynamically reacts to the player's sight and sound, creating genuine tension.
 
 ### 2. Environmental Puzzles & Door Progression
-![Puzzle Mechanics](BURAYA_KAPI_FOTOGRAFININ_ADINI_YAZ.png)
+![Puzzle Mechanics](puzzle2.png)
+![Puzzle Mechanics](buttonPuzle.png)
 > **The Mechanic:** Designed interactive systems where players must solve environmental puzzles under pressure to unlock the progression paths.
 
 ### 3. Atmospheric Level Design
-![Atmosphere](BURAYA_ATMOSFER_FOTOGRAFININ_ADINI_YAZ.png)
+![Atmosphere](hidingAlien.png)
 > **Visuals:** A look at the linear demo map where we successfully tested the core mechanics and lighting to maximize player immersion.
